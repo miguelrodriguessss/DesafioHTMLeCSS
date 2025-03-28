@@ -173,6 +173,8 @@ aside ul {
     list-style-position: inside;
     columns: 3;
     list-style-type: '\2714\00A0';
+    width: 90%;
+    margin: auto;
 }
 
 aside a {
